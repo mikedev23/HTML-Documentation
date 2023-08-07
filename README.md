@@ -4,11 +4,11 @@
 
 ## 🎦 Demo
 
-https://mikedev23-retro-reels.netlify.app/
+https://mikedev23-html-documentation.netlify.app/
 
 ## 🌐 Source Code
 
-https://github.com/mikedev23/Retro-Reels
+https://github.com/mikedev23/HTML-Documentation
 
 ## 🔌 Installation
 
